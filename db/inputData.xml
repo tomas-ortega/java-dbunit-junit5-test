@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <book id="1" title="Los Pilares de la Tierra" author="Ken Follet" editorial="Planeta" pages="450"/>
+  <book id="2" title="La Catedral del Mar" author="Ildefonso Falcones" editorial="Grijalbo" pages="670"/>
+</dataset>
